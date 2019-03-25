@@ -440,3 +440,9 @@ form .controls {
   border-color: #000; }
 .two-factor-required #qr_code td.white {
   border-color: #fff; }
+
+@media screen and (max-width:1024px) { CSS FOR Max WIDTH 1024Px }
+@media screen and (max-width:768px) { CSS FOR Max WIDTH 768Px }
+@media screen and (max-width:640px) { CSS FOR Max WIDTH 640Px }
+@media screen and (max-width:480px) { CSS FOR Max WIDTH 480Px }
+@media screen and (max-width:320px) { CSS FOR Max WIDTH 320Px }
